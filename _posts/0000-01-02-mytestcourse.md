@@ -2,5 +2,5 @@
  diseño : título de la diapositiva
  : "¡ Bienvenido a nuestra segunda diapositiva! "
 ---
-Tu texto ¡ 
+* Modificaciones al primer commit *
 Usa la flecha izquierda para regresar!
